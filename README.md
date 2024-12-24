@@ -1,6 +1,6 @@
 # Automated Asset Retargeting Using Neural Style Transfer
 
-This project provides an **AdaIN-based** Neural Style Transfer pipeline to retarget 2D texture assets (e.g., from Poly Haven) into various styles (modern, antique, industrial, etc.).
+This project provides an **AdaIN-based** Neural Style Transfer pipeline to retarget 2D texture assets into various styles (modern, antique, industrial, etc.).
 
 ---
 
